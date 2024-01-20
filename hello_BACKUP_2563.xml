@@ -1,0 +1,6 @@
+this is xml file
+<<<<<<< HEAD
+new content
+=======
+this is new update in xml
+>>>>>>> branch
